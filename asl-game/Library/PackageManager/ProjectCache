@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637831413277211522
-    m_Hash: 1196938539
+      ticks: 637855034844545300
+    m_Hash: 4221385194
   m_LockFileStatus:
     m_FilePath: C:/Users/aleja/CapstoneProject/asl-game/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637831413402085403
-    m_Hash: 569312046
+      ticks: 637855034844545300
+    m_Hash: 1867269109
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
